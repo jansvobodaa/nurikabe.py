@@ -433,6 +433,22 @@ def isValid(matrix):
                 return True
     return False
 
+
+
+
+
+#________________________________________________________________________________________________________________________________________________________________________________
+#testing section
+#note - I still need to update and translate all the comments
+#       and I all the fuctions are not yet optimized
+#       Many of them are to my liking but some of them will
+#       end up being completly rewriten. If you have any suggestions
+#       feel free to comment
+#       see you soon with an update!
+
+
+
+
 matrix = [[-1,2,-1],[-1,-1,-1],[-1,-1,-1]]
 matrix = [[-1,-1,-1],[3,-1,3],[-1,-1,-1]]
 xmatrix = [
